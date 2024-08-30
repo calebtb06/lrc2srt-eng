@@ -4,7 +4,7 @@ A website to convert [.lrc files](https://en.wikipedia.org/wiki/LRC_(file_format
 [https://calebidklol.github.io/lrc2srt-eng](https://calebidklol.github.io/lrc2srt-eng) <--- This is an english version 
 
 
-## How to use?
+## How to use??
 Just drag .lrc file(s) to the page, or you can copy the content of .lrc file to the textarea. Then click the button to start converting.
 If you add one .lrc file, you can download .srt file or copy it from the textarea.
 If you add multiple files, you can download srt.zip containing .srt files.
